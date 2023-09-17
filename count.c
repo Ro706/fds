@@ -14,6 +14,6 @@ int main(){
     while (n1--)a[i++]=1; //n1 =2
     while (n2--)a[i++]=2; //n2 =2
     for(int i =0;i<n;i++){
-        printf(" %d",a[i]);
+        printf("%d ",a[i]);
     }
 }
